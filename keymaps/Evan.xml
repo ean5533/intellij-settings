@@ -1,4 +1,7 @@
 <keymap version="1" name="Evan" parent="Visual Studio">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -10,6 +13,9 @@
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="EditorSelectWord" />
   <action id="ExtractMethod">
@@ -68,6 +74,7 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextTab" />
+  <action id="OverrideMethods" />
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
