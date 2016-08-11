@@ -511,6 +511,11 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
+    <option name="KOTLIN_WRAPPED_INTO_REF">
+      <value>
+        <option name="FOREGROUND" value="dc8f00" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="569cd6" />
