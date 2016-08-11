@@ -78,6 +78,10 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl f" />
   </action>
   <action id="IntroduceLambdaParameter" />
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl p" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
