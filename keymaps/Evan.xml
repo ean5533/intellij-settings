@@ -18,6 +18,12 @@
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="Console.TableResult.NavigateForeignAction">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="ContextHelp" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
@@ -42,6 +48,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -52,6 +61,12 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl comma" />
     <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
