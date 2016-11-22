@@ -1,5 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.apache.commons.configuration.Configuration.getInt(key)" />
+        <added pattern="com.newrelic.api.agent.NewRelic.incrementCounter(name)" />
+        <added pattern="javax.servlet.http.HttpServletRequest.getHeader(name)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
