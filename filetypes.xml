@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="Dockerfile-kafka" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="mbconfig" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
