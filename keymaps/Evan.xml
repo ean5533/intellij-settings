@@ -65,7 +65,7 @@
   <action id="GoToClass" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl comma" />
