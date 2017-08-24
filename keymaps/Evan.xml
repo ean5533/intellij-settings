@@ -1,4 +1,7 @@
 <keymap version="1" name="Evan" parent="Visual Studio">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -27,6 +30,9 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="ContextHelp" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
@@ -80,7 +86,7 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
