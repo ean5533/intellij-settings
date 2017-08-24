@@ -27,6 +27,12 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="ContextHelp" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
@@ -60,6 +66,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl comma" />
