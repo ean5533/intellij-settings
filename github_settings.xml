@@ -2,5 +2,6 @@
   <component name="GithubSettings">
     <option name="HOST" value="source.datanerd.us" />
     <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="CREATE_PULL_REQUEST_CREATE_REMOTE" value="YES" />
   </component>
 </application>
