@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile-kafka" type="PLAIN_TEXT" />
       <mapping pattern="oldbuildgradle" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="mbconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
