@@ -22,6 +22,7 @@
       <mask>*java</mask>
       <mask>*.java</mask>
       <mask>*.yml</mask>
+      <mask>grandcentral.yml</mask>
     </recentFileMasks>
   </component>
 </application>
