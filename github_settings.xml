@@ -1,7 +1,10 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="ae51d57e-d55a-408e-8416-839064af5833" name="enelson">
+      <server host="source.datanerd.us" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="HOST" value="source.datanerd.us" />
-    <option name="AUTH_TYPE" value="TOKEN" />
     <option name="CREATE_PULL_REQUEST_CREATE_REMOTE" value="YES" />
   </component>
 </application>
