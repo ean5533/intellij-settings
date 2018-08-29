@@ -168,6 +168,10 @@
   <action id="Run" />
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.ShowImplicitParameters" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
