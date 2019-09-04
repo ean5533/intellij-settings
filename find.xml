@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'number_logging_server-master'" />
+    <option name="defaultScopeName" value="Project 'number_logging_server-master'" />
+    <option name="SEARCH_SCOPE" value="Project 'number_logging_server-master'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
