@@ -39,6 +39,10 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
@@ -148,6 +152,9 @@
   </action>
   <action id="NextTab" />
   <action id="OverrideMethods" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+  </action>
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
@@ -197,6 +204,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="shift escape" />
   </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.Push">
