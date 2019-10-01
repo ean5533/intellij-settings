@@ -2,14 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
-      <mapping pattern="update-dashboards" type="PLAIN_TEXT" />
-      <mapping pattern="oldbuildgradle" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Dockerfile-kafka" type="PLAIN_TEXT" />
+      <mapping pattern="oldbuildgradle" type="PLAIN_TEXT" />
       <mapping pattern="mock-maker-inline" type="PLAIN_TEXT" />
+      <mapping pattern="update-dashboards" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="tb" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="mbconfig" type="PLAIN_TEXT" />
-      <mapping ext="tb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
