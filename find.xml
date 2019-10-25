@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\data-point-converter\src\test\java\com\newrelic\datapointconverter\formatter\visitor\AttributeVisitorTest.java [data-point-conversion.data-point-converter.test]'" />
+    <option name="defaultScopeName" value="File '...\data-point-converter\src\test\java\com\newrelic\datapointconverter\formatter\visitor\AttributeVisitorTest.java [data-point-conversion.data-point-converter.test]'" />
+    <option name="SEARCH_SCOPE" value="File '...\data-point-converter\src\test\java\com\newrelic\datapointconverter\formatter\visitor\AttributeVisitorTest.java [data-point-conversion.data-point-converter.test]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
